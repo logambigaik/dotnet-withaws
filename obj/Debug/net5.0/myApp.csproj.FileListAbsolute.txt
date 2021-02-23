@@ -1,0 +1,16 @@
+/opt/dotnet/myApp/bin/Debug/net5.0/myApp
+/opt/dotnet/myApp/bin/Debug/net5.0/myApp.deps.json
+/opt/dotnet/myApp/bin/Debug/net5.0/myApp.runtimeconfig.json
+/opt/dotnet/myApp/bin/Debug/net5.0/myApp.runtimeconfig.dev.json
+/opt/dotnet/myApp/bin/Debug/net5.0/myApp.dll
+/opt/dotnet/myApp/bin/Debug/net5.0/ref/myApp.dll
+/opt/dotnet/myApp/bin/Debug/net5.0/myApp.pdb
+/opt/dotnet/myApp/obj/Debug/net5.0/myApp.csprojAssemblyReference.cache
+/opt/dotnet/myApp/obj/Debug/net5.0/myApp.GeneratedMSBuildEditorConfig.editorconfig
+/opt/dotnet/myApp/obj/Debug/net5.0/myApp.AssemblyInfoInputs.cache
+/opt/dotnet/myApp/obj/Debug/net5.0/myApp.AssemblyInfo.cs
+/opt/dotnet/myApp/obj/Debug/net5.0/myApp.csproj.CoreCompileInputs.cache
+/opt/dotnet/myApp/obj/Debug/net5.0/myApp.dll
+/opt/dotnet/myApp/obj/Debug/net5.0/ref/myApp.dll
+/opt/dotnet/myApp/obj/Debug/net5.0/myApp.pdb
+/opt/dotnet/myApp/obj/Debug/net5.0/myApp.genruntimeconfig.cache
